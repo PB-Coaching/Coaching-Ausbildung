@@ -1,0 +1,202 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{ngerman}
+\usepackage[ngerman]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{marvosym}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage{textcomp}
+\usepackage{pifont}
+\usepackage{ifpdf}
+\usepackage[pdftex]{color}
+\ifpdf
+  \usepackage[pdftex]{graphicx}
+\else
+  \usepackage[dvips]{graphicx}\fi
+
+\pagestyle{empty}
+
+\usepackage[scale=0.775]{geometry}
+\setlength{\parindent}{0pt}
+\addtolength{\parskip}{6pt}
+
+\def\firstname{Pascal}
+\def\familyname{Bernhard}
+\def\FileAuthor{\firstname~\familyname}
+\def\FileTitle{\firstname~\familyname's Falldokumentation1}
+\def\FileSubject{Falldokumentation1}
+\def\FileKeyWords{\firstname~\familyname, Falldokumentation1}
+
+\renewcommand{\ttdefault}{pcr}
+\hyphenation{ins-be-son-de-re}
+\usepackage{url}
+\urlstyle{tt}
+\ifpdf
+  \usepackage[pdftex,pdfborder=0,breaklinks,baseurl=http://,pdfpagemode=None,pdfstartview=XYZ,pdfstartpage=1]{hyperref}
+  \hypersetup{
+    pdfauthor   = \FileAuthor,%
+    pdftitle    = \FileTitle,%
+    pdfsubject  = \FileSubject,%
+    pdfkeywords = \FileKeyWords,%
+    pdfcreator  = \LaTeX,%
+    pdfproducer = \LaTeX}
+\else
+  \usepackage[dvips]{hyperref}
+\fi
+
+\definecolor{firstnamecolor}{RGB}{56,115,179}
+\definecolor{familynamecolor}{RGB}{56,115,179}
+\hypersetup{pdfborder=0 0 0}
+
+% Gleiche Schriftart für Hyperlinks
+\urlstyle{same}
+
+
+%  Gefrickel um URL-Links vernünftig umzubrechen
+\makeatletter
+\g@addto@macro\UrlBreaks{
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0}
+% \def\do@url@hyp{\do\-}
+
+% Hiermit soll einer übervolle Box verhindert werden -- funktioniert sogar irgendwie
+\g@addto@macro\UrlSpecials{\do\/{\mbox{\UrlFont/}\hskip 0pt plus 1pt}}
+\makeatother
+
+% Farben werden hier definiert
+\definecolor{MidnightBlue}{RGB}{0,67,138}
+\definecolor{Violet}{RGB}{106,0,86}
+\definecolor{Orange}{RGB}{227,173,0}
+
+
+% Serifenlose Schrift für das gesamte Dokument
+\renewcommand*\familydefault{\sfdefault}
+
+
+\begin{document}
+\sffamily   % for use with a résumé using sans serif fonts;
+%\rmfamily  % for use with a résumé using serif fonts;
+\hfill%
+\begin{minipage}[t]{.6\textwidth}
+\raggedleft%
+\includegraphics[width=0.55\textwidth]{Coaching-Logo_1280-720.jpg}
+
+
+\end{minipage}\\[0.5em]
+%
+{\color{firstnamecolor}\rule{\textwidth}{.25ex}}
+%
+\begin{minipage}[t]{.4\textwidth}
+	\raggedright%
+	% {\bfseries {\color{firstnamecolor}
+	\vspace*{1em}
+
+	\small%
+\end{minipage}
+%
+\hfill
+%
+\begin{minipage}[t]{.4\textwidth}
+	\raggedleft % US style
+	Pascal Bernhard
+	%April 6, 2006 % US informal style
+	%05/04/2006 % UK formal style
+\end{minipage}\\[2.2em]
+
+
+{\bfseries \color{Violet}{{\Large Falldokumentation für Coaching-Prüfung 2}}}\\[0.75em]
+
+\section*{\color{MidnightBlue}{Rahmeninformationen zum Klienten}}
+
+
+Der Klient hat sich auf Empfehlung seiner Frau auf meine Anzeige auf einem Online-Nachbarschaftsportal gemeldet. Er befindet sich momentan in einer beruflichen Umorientierungphase. Seine Frau arbeitet selbst als Coach und fand ein Coaching für ihren Mann grundsätzlich angebracht.
+
+Den Klienten würde ich als sehr systematischen, weniger emotionalen Menschen beschreiben. Zugleich hat große Fähigkeiten zur Selbstreflexion und versteht unmittelbar Zusammenhänge in sozialen Systeme. Diese Selbstreflexion wird jedoch nicht von sich aus angestoßen, sondern erfolgt erst nach Aufforderungen von außen (bisher die eigene Familie: Ehefrau und zwei Töchter).
+
+
+\section*{\color{MidnightBlue}{Coaching-Sitzungen}}
+
+
+
+\subsection*{\color{Orange}{Vorgespräch}}
+
+Dem Klienten war bereits im Vorgespräch bewusst, dass er von seiner Frau, die selbst als systemischer Coach arbeitet, geschickt worden war. Zugleich war er offen für Coaching, hatte bereits eine gute Vorstellung über Inhalte und Vorgehensweisen des Coachings. Er schien die Einsicht gewonnen zu haben, dass ihm ein Coaching allgemein für sein Leben gut tun würde. Gleich zu Anfang machte mein Klient deutlich, dass er im Coaching ausschließlich berufliche, jedoch keine familiären Themen bearbeiten wolle. Seine notwendige berufliche Neuorientierung, und die damit zusammenhängenden Probleme, identifizierte er als Mittelpunkt des Coaching-Prozesses. Für ihn war auch wichtig, welche Instrumente ich beim Coaching einsetzen möchte und wie ich in meinnem Übungs-Coaching seine Anliegen ausreichend berücksichtigen kann. 
+
+
+\subsection*{\color{Orange}{Erste Sitzung: Posititionsbestimmung}}
+
+Die erste Sitzung habe ich bewusst offen gestaltet, das heißt, meine Idee war mittels zirkulären Fragen, die persönliche Situation mit ihren Herausforderungen und die Stärken des Klienten zu ertasten. Wie bereits im Vorgespräch vom Coachee identifiziert, ist eine grundlegende Orientierungslosigkeit ein starkes Element seiner Biografie und wird im  Berufslebens sehr deutlich. Ziel des Coaching-Prozesses ist, persönliche Wünsche und Ziele für das Leben klar zu formulieren, um auf dieser Basis Entscheidungen für die zukünftige Karriere fällen zu können. Mein Coachee stellte zu Beginn der Sitzung klar, dass einzig berufliche Themen und seine Persönlichkeit Gegenstand der Coaching-Sitzungen sein sollte. Den Themenbereich Familie wollte er hingegen vollkommen aussparen.
+
+Im Gespräch wurde noch einmal spürbar, dass der Coachee auf Wunsch seiner Frau und auch seiner beiden Töchter zu mir in Coaching gekommen ist. Diese sehen seine grundsätzliche Einstellung und sein Verhalten als verbesserungsdürftig. Der Klienten hat dies in den letzten Jahren selbst auch wahrgenommen und hegt auch persönlich den Wunsch nach Veränderung. Konkret hat der Coachee das Gefühl, zu wenig zielstrebig im Leben voranzugehen, sich vor Entscheidungen zu drücken und grundsätzlich es allen Recht machen zu wollen. Als Folge sieht er seine persönlichen Bedürfnisse nicht ausreichend berücksichtig und ist mit seinem Verhalten im Nachhinein immer wieder unzufrieden. Am Ende der Sitzung formulierte der Coachee als Ziel für den weiteren Coaching-Prozess, sich Klarheit über die eigenen Bedürfnisse zu verschaffen und zu lernen, diese gegenüber anderen Menschen auch zu wahren. Auf Anregung seiner Frau wollte mein Klient in der folgenden Sitzungen zunächst mit seinen internen Antreibern befassen, da ihm nahegelegt wurde, dass er hieran arbeiten solle.
+
+
+
+\subsection*{\color{Orange}{Zweite Sitzung: Antreiber-Modell}}
+
+In der zweiten Sitzung hatte ich zum ersten Mal das Gefühl, dass mein Coachee nicht mehr als geschickte Person zu mir ins Coaching kam, sondern eine intrinsische Eigenmotivation und vor allem Interesse an sich selbst mitbrachte. Die Gespräche zuvor hatten immer wieder deutlich werden lassen, dass andere Menschen in seinem Umfeld, Familie aber auch enge Freunde, sich eine Veränderung wünschten. Meinem Klienten waren seine Hemnisse, vor allem Entscheidungsfreudigkeit betreffend, bewusst, hatte sich bislang aber mit dieser Haltung arrangiert und keinen Änderungsbedarf gesehen. Mein Eindruck war, dass die zirkulären Fragen in vorherigen Sitzungen bei meinem Coachee ein umfassendere Bewusstsein für seinen bisherigen Lebensweg und seine Persönlichkeit geschaffen. Hierbei hoffe und denke ich, als Coach von meiner Seite aus dem Klienten jedoch kein Problem eingeredet zu haben. 
+
+Mein Klient war sehr gespannt auf den in der vorherigen Sitzung angekündigten Antreiber-Test. Beim Ausfüllen zeigte sich die Tendenz, klare Entscheidungen lieber zu vermeiden, als der Coachee sich bei fast allen Fragen einen Mittelwert eintrug. Dieses Verhalten fiel ihm selbst auf und verstärkte den eigenen Wunsch, an diesem Thema im Coaching zu arbeiten. Der Antreiber, es allen Recht machen zu wollen, war sehr starkt ausgeprägt. Der Klient schilderte mir, dass ihn dieses Verhalten selbst störe, da er im Nachhinein sich oft darüber ärgert, anderen Personen Gefallen zu tun, obwohl er eigentlich wichtigere Dinge zu tun hat. Als zentrales Problem des Antreibers sah er, dass seine persönlichen Bedürfnisse.
+
+Als ersten Lösungsansatz habe ich mit Fragen nach dem Unterschied, der den Unterschied macht, versucht, Situationen zu finden, in denen sich der Coachee anders verhält und es nicht allen Recht macht. Entgegen meinen Erwartungen tat er sich sehr schwer damit, Beispiele zu finden und mir ist es auch nur sehr eingeschränkt gelungen, auf die essentiellen Unterschiede hinzuarbeiten, um den Klienten eine Lösung entwickeln zu lassen. Der Coachee ist ein sehr digital denkender Mensch, bei dem ich in den bisherigen Sitzungen Schwierigkeiten hatte, ihn in den Bauch zu führen, um die analoge Seite der Dinge zu sehen.
+
+Im letzten Drittel habe ich versucht mittels Erlauber, das Antreibergefüge meines Coachee aufzulockern. Dies ist mir nach meiner eigenen Einschätzung nur sehr eingeschränkt gelungen. Die Antreiber sind beim Klienten sehr stark in seinen Glaubenssätzen verhaftet. Auch in dieser Sitzung war die Herausforderung, den Coachee von digitalen Verhaltensweisen und Interpretationsmustern in die analoge Welt zu führen überwältigend schwer. An dieser Stelle bin ich als Coach klar in punkto Coachingkompetenzen an meine Grenzen gestoßen. Jedoch dürfte auch erfahrenden Coaches die Arbeit mit dem Klienten schwer fallen. Meine eigenen digital orientierte Wesensart ermöglicht mir zugleich mittels Empathie für den Coachee eine unmittelbare Verbindung zu ihm aufzubauen, die ein sehr tragfähiges Arbeitsklima schafft.
+
+
+Zum Abschluss der Sitzung nahm der Klient meinen Vorschlag, über die Arbeit mit Glaubenssätzen, zu schauen, wo seine Antreiber herkommen und so eine reflektiertere Haltung gegenüber diesen erlernten Verhaltensmustern einnehmen zu können.
+
+
+
+
+% Dritte Session
+\subsection*{\color{Orange}{Dritte Sitzung: Glaubenssätze}}
+
+
+In der dritten Sitzung habe ich direkt an die vorherige Arbeit mit den Antreibern angeknüpft. Mein Coachee hatte zu Ende der letzten Session den Wunsch geäußert, die Herkunft seiner inneren Antreiber genauer zu erforschern, um das eigene Verhalten, welches er selbst als behindernd wahrnimmt, besser verstehen und so auch ändern zu können. Das Instrument der Glaubenssätze habe ich brav, wie in der Ausbildung gelernt, zusammen mit dem Klienten abgearbeitet. Der Einstieg, sich in die Situation des kleinen 7-jährigen Jungen zu versetzen, fiel ihm auf Anhieb eher schwer, gelang dann aber durch gezielte Fragen besser. Interessanterweise schien mein Coachee noch vor dem eigentlichen Abschnitt mit den Fragen zu Leben und Sichtweisen der Eltern, die Erinnerung an die eigene Kindheit zahlreiche Gedankenprozess anzustoßen.
+
+Die Arbeit mit den Glaubenssätzen war sehr ergiebig, so dass im letzten Drittel der Sitzung eine Vielzahl von Karten auf dem Tisch lagen. Die Auswahl als relevant eingestuften Karten fiel meinem Klient leicht, hierbei konnte ich immer wieder Aha-Erlebnisse beobachten. Zusammenhänge zwischen erlernten Glaubenssätzen auf dem familiären Kontext und dem eigenen Verhalten waren ihm bereits vorher wenn auch unpräzise bewusst gewesen. Auf diese Verbindungen genauer zu sehen war eines der Hauptanliegen sowohl des Klienten als der ihn schickenden Ehefrau, so dass diese Sitzung spürbar für den Coachee die bisher erfüllendste war. 
+
+Der anschließende Schritt, die erlernten einschränkenden Glaubenssätze in positive bestärkende Glaubenssätze zu transformieren, gestaltete sich deutlich schwieriger. An dieser Stelle werte ich es als bescheidenen Erfolg, dass mein Klient sich die einschränkenden Glaubenssätze in dieser Sitzung bewusst gemacht hat, wie nie zuvor in seinem Leben. Das Bedanken bei den alten Glaubenssätzen war überzeugend, die Entwicklung neuer Glaubenssätze und ihre Annahme weniger. Nach meinem Eindruck braucht mein Coachee noch mehr Zeit, um wirklich zu neuen Glaubenssätzen zu finden. Auf emotionaler Ebener konnte ich ihn zu positiven Bildern hin bewegen. So war diese Sitzung für mich am Ende etwas enttäuschend, allerdings glaube ich, dass mein Klient durch kleine aber konkrete Schritte im Umgang mit Entscheidungen, sich neue stärkende Glaubenssätze von sich heraus erarbeiten wird.
+
+
+
+
+
+% Vierte Session
+\subsection*{\color{Orange}{Vierte Sitzung: Identifikation der persönlichen Wünsche und Bedürfnisse}}
+
+
+Zentraler Wunsch meines Klienten für den gesamten Coaching-Prozesses war es, herauszufinden, was er im Beruf und allgemein im Leben wirklich will. Diese Sitzung war für mich als Coach die bisher schwierigste, da mein Coachee sich stets sehr stark von seinen Emotion distanziert und diese kaum nach außen zeigt. Auf Antworten nach Gefühlen und  Stimmungen erhielt ich immer nichtssagende Aussagen, der Klient findet zu keiner bildhaften Sprache, sondern sieht alles sehr strukturiert und objektiv. Zugleich bietet er auch für alle Situationen eine eigene Erklärung an, die auf seiner persönlichen digitalen Interpretation der Welt beruht. Meine Versuche, ihn vom digitalen Denken ins analoge Fühlen zu begleiten, waren bisher größtenteils erfolglos. 
+
+Auch gingen meine Fragen nach Unterschieden, die den Unterschied ausmachen, fast immer ins Leere. Mein Klient tut sich sehr schwer damit, vergangene Situationen aus dem Gedächnis abzurufen. Die Beschreibung eigener Gefühle aber auch Details zur Situation oder anderer beteiligter Personen misslingt ihm hierbei so gut wie nicht möglich. Im Coaching kam er jedoch zur Erkenntnis, dass er sein eigenes Leben und vor allem sein Umfeld zu wenig wahrnimmt. Aus diesem Grund formulierte er während der Sitzung das Ziel, sich und die Welt bewusster zur Kenntnis zu nehmen und spüren zu lernen.
+
+Zirkuläre Fragen waren bei der Suche nach den Bedürfnissen des Klienten wenig hilfreich. Nachdem mein Coachee keine Situation nennen konnte, in welcher er seine Bedürfnisse als berücksichtigt empfunden hätte und wir so keine Unterschiede herausarbeiten konnten, hatte ich den Ansatz zirkulärer Fragen genommen. Ausgehend vom Antreiber, es allen recht machen zu wollen, identifizierte mein Klient, den grundlegenden Wunsch nach Anerkennung seitens anderer, die ihm durch Priorisierung eigener Bedürfnisse stets gefährdet erscheint. In dieser Sitzung hatte ich das Gefühl entweder ein passendes Instrument nicht in petto zu haben, oder aber es während der Ausbildung nicht gelernt zu haben.
+
+Am Ende der Session war ich von meiner Coachingarbeit enttäuscht und fand, dass ich es schlecht gemacht habe. Mein Coachee sah dies anders, da er von mir nicht erwartet hatte, sein Problem, eigene Wünsche zu erkennen, in einer Sitzung zu lösen.
+
+
+
+
+
+% Fünfte Session
+\subsection*{\color{Orange}{Fünfte Sitzung: Erneute Themensammlung}}
+
+
+Die fünfte Sitzung war für mich als Coach die intensivste und zugleich erfüllendste Sitzung mit dem Klienten. In den vorangegangen Sessions hatte ich ein sehr umfassendes Bild meines Coachees und seiner Herausforderungen gewonnen. Meiner ersten Einschätzung nach war die Schwierigkeit, Entscheidungen zu treffen, eng mit dem Antreiber, es allen recht machen zu wollen, verknüpft. Sein ausbaufähiges Selbstwertgefühl rückte erst in den letzten beiden Sitzungen zunehmend in den Vordergrund. Selbstkritisch muss ich als angehender Coach anmerken, dass ich die Bedeutung des Themas für den gesamten Coachingprozess früher hätte richtig einschätzen sollen, um so schneller mit meinem Klienten das Thema bearbeiten zu können. 
+
+Um die diversen Aspekte und tiefe der jeweiligen Dimensionen würdigen zu können, habe ich mich entschieden, mit meinem Klienten erneut auf Themensammlung gehen. Hierbei war meine Absicht, sowohl das Problem des bescheidenen Selbstbewusstsein genauer beurteilen zu können und zugleich meinen Coachee eigenen Stärken identifizieren zu lassen. Mit letzterem wollte ich ihn in die Kraft führen und ihn motivieren, mehr von jenen Dingen zu tun, die bereits gut funktionieren. 
+
+Zu meiner Freude und nicht mehr wirklich Überraschung öffnete sich mir mein Coachee in privaten Angelegenheiten, welche er im Erstgespräch deutlich ausgeschlossen hatte. Schon in den beiden vorangegangenen Gesprächen konnte ich feststellen, dass er zunehmend Vertrauen zu mir gewann und stärker bereit war, private Themen anzusprechen, die er zuvor sehr offensichtlich ausgeklammert hatte.
+
+
+Zum ersten Mal konnte ich Freude auf Seiten meines Klienten über die positive Wirkung des Coachings spüren, zuvor kam dieses Feedback nur nüchtern verbal. Während meine andere Klienten immer am Ende jeder Sitzung ein Leuchten im Gesicht hatte, erlebte ich dies bei meinem Coachee zum ersten Mal. Bei privaten ist es mir erstmals gelungen, den Coachee nachhaltig vom Kopf in den Bauch zu führen. Bislang hatte ich wenig Erfolg in dieser Hinsicht und mein Eindruck war, dass mein Coaching aus diesem Grund auch nur begrenzt hilfreich war.
+
+
+
+
+
+
+
+\end{document}
