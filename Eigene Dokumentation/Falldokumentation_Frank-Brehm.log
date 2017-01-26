@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.28)  24 JAN 2017 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.28)  26 JAN 2017 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -620,21 +620,21 @@ e An-zei-ge auf ei-nem Online-Nachbarschaftsportal
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Coaching-Logo_1280-720.j
-pg>] [2] [3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+pg>] [2] [3] [4] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
  (./Falldokumentation_Frank-Brehm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
 Package rerunfilecheck Info: File `Falldokumentation_Frank-Brehm.out' has not c
 hanged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
  ) 
 Here is how much of TeX's memory you used:
- 8742 strings out of 493013
- 123430 string characters out of 6135681
+ 8744 strings out of 493013
+ 123447 string characters out of 6135681
  223940 words of memory out of 5000000
  12114 multiletter control sequences out of 15000+600000
  37831 words of font info for 42 fonts, out of 8000000 for 9000
@@ -642,10 +642,10 @@ Here is how much of TeX's memory you used:
  29i,6n,30p,1136b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on Falldokumentation_Frank-Brehm.pdf (5 pages, 490540 bytes).
+Output written on Falldokumentation_Frank-Brehm.pdf (6 pages, 492785 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 56 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
