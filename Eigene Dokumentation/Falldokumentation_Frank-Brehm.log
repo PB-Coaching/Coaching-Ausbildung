@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.28)  27 JAN 2017 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.28)  27 JAN 2017 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -633,19 +633,20 @@ hanged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
  ) 
 Here is how much of TeX's memory you used:
- 8744 strings out of 493013
- 123447 string characters out of 6135681
+ 8746 strings out of 493013
+ 123475 string characters out of 6135681
  223940 words of memory out of 5000000
- 12114 multiletter control sequences out of 15000+600000
- 37831 words of font info for 42 fonts, out of 8000000 for 9000
+ 12115 multiletter control sequences out of 15000+600000
+ 40636 words of font info for 43 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  29i,6n,30p,1145b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
-public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on Falldokumentation_Frank-Brehm.pdf (6 pages, 492829 bytes).
+public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
+Output written on Falldokumentation_Frank-Brehm.pdf (6 pages, 513479 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  17 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
