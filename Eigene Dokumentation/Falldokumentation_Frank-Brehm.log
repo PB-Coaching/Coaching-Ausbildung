@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.28)  27 JAN 2017 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.28)  27 JAN 2017 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -621,16 +621,16 @@ e An-zei-ge auf ei-nem Online-Nachbarschaftsportal
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Coaching-Logo_1280-720.j
 pg>] [2] [3] [4] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (./Falldokumentation_Frank-Brehm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
 Package rerunfilecheck Info: File `Falldokumentation_Frank-Brehm.out' has not c
 hanged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
  ) 
 Here is how much of TeX's memory you used:
  8746 strings out of 493013
@@ -643,7 +643,7 @@ Here is how much of TeX's memory you used:
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Falldokumentation_Frank-Brehm.pdf (6 pages, 513479 bytes).
+Output written on Falldokumentation_Frank-Brehm.pdf (6 pages, 513619 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
